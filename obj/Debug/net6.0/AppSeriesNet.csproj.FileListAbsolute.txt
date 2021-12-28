@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\bin\Debug\net6.0\AppSeriesNet.exe
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\bin\Debug\net6.0\AppSeriesNet.deps.json
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\bin\Debug\net6.0\AppSeriesNet.runtimeconfig.json
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\bin\Debug\net6.0\AppSeriesNet.dll
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\bin\Debug\net6.0\ref\AppSeriesNet.dll
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\bin\Debug\net6.0\AppSeriesNet.pdb
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\obj\Debug\net6.0\AppSeriesNet.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\obj\Debug\net6.0\AppSeriesNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\obj\Debug\net6.0\AppSeriesNet.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\obj\Debug\net6.0\AppSeriesNet.AssemblyInfo.cs
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\obj\Debug\net6.0\AppSeriesNet.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\obj\Debug\net6.0\AppSeriesNet.dll
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\obj\Debug\net6.0\ref\AppSeriesNet.dll
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\obj\Debug\net6.0\AppSeriesNet.pdb
+C:\Users\lucas\Documents\www\dio\AppSeries\AppSeriesNet\obj\Debug\net6.0\AppSeriesNet.genruntimeconfig.cache
